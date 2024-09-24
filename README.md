@@ -42,7 +42,7 @@ Engineering world, handles large amounts of data safely.
 ### For Nvidia GPU users
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/MekhyW/self-hosted-ai-starter-kit.git
 cd self-hosted-ai-starter-kit
 docker compose --profile gpu-nvidia up
 ```
@@ -66,7 +66,7 @@ If you want to run Ollama on your mac, check the
 for installation instructions, and run the starter kit as follows:
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/MekhyW/self-hosted-ai-starter-kit.git
 cd self-hosted-ai-starter-kit
 docker compose up
 ```
